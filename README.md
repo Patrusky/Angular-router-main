@@ -1,6 +1,6 @@
 # MyStoreRouter
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli)
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli). Este es un proyecto para poder practicar el routing y la programación modular
 
 ## Development server
 
